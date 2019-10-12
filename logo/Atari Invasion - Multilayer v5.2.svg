@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841mm"
+   height="1189mm"
+   viewBox="0 0 2979.9213 4212.9921"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Atari Invasion - Multilayer v5.2.svg"
+   inkscape:export-filename="C:\Users\bware\Pictures\Inkscape\Atari Invasion Logo\Atari Invasion - Multilayer v2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="enable-background:new">
+  <title
+     id="title3371">Atari Invasion Logo</title>
+  <defs
+     id="defs4">
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark And Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter3906">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur3908" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite3910" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite3912" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix3914" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend3916" />
+    </filter>
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark And Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter3918">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur3920" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite3922" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite3924" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix3926" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend3928" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.045229998"
+     inkscape:cx="63.076189"
+     inkscape:cy="405.06243"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Atari Invasion Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background"
+     style="display:none"
+     transform="translate(0,3160.6299)" />
+  <g
+     inkscape:label="Fuji"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:0.75"
+     transform="translate(0,3160.6299)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Space Invader"
+     style="display:inline;opacity:1"
+     transform="translate(0,3160.6299)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text - Atari"
+     style="display:inline;opacity:0.75"
+     transform="translate(0,3160.6299)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Text - Invasion"
+     style="display:inline;opacity:1"
+     transform="translate(0,3160.6299)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3420"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3422"><rect
+           id="rect3425"
+           width="364.89362"
+           height="91.489365"
+           x="126.59574"
+           y="735.34094" /></flowRegion><flowPara
+         id="flowPara3427"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <g
+       id="g3366"
+       transform="matrix(8.9631813,0,0,12.573138,-1840.355,-7056.5562)"
+       style="display:inline;opacity:0.75;fill:#ff6600;enable-background:new">
+      <path
+         id="path7060"
+         class="ps02"
+         d="m 260.54588,517.28171 v -26.79116 c 0,0 36.65542,-7.42047 54.9832,-34.24159 6.40718,-9.20854 13.70846,-19.26637 16.53958,-29.93517 10.57938,-40.05271 6.70522,-83.36861 6.70522,-83.36861 h 14.00656 v 61.18165 c 0,0 -1.93708,52.18185 -26.07598,79.13688 -32.78126,36.67034 -66.15858,34.018 -66.15858,34.018"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7078"
+         class="ps02"
+         d="m 482.56427,517.28171 v -26.79116 c 0,0 -36.65529,-7.42047 -54.98307,-34.24159 -6.25817,-9.20854 -13.55939,-19.26637 -16.3905,-29.93517 -10.57945,-40.05271 -6.70528,-83.36861 -6.70528,-83.36861 h -14.00657 v 61.18165 c 0,0 1.93708,52.18185 26.07598,79.13688 32.78126,36.67034 66.00944,34.018 66.00944,34.018"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7089"
+         class="ps02 ps11"
+         d="m 359.03861,517.28171 h 25.03305 V 342.9302 h -25.03305 z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50709999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3478"
+       transform="matrix(4.95,0,0,4.95,346.51054,-2747.2376)"
+       style="display:inline;opacity:1;fill:#5fd35f;filter:url(#filter3906);enable-background:new">
+      <rect
+         id="rect3376"
+         height="42"
+         width="42"
+         x="84"
+         y="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3378"
+         height="42"
+         width="42"
+         y="42"
+         x="126"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3380"
+         height="42"
+         width="42"
+         y="84"
+         x="84"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3382"
+         height="42"
+         width="42"
+         y="126"
+         x="42"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3384"
+         height="42"
+         width="42"
+         y="84"
+         x="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3386"
+         height="42"
+         width="42"
+         y="42"
+         x="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3388"
+         height="42"
+         width="42"
+         y="126"
+         x="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3390"
+         height="42"
+         width="42"
+         y="168"
+         x="42"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3392"
+         height="42"
+         width="42"
+         y="168"
+         x="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3394"
+         height="42"
+         width="42"
+         y="210"
+         x="42"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3396"
+         height="42"
+         width="42"
+         y="126"
+         x="84"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3398"
+         height="42"
+         width="42"
+         y="168"
+         x="84"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3400"
+         height="42"
+         width="42"
+         y="210"
+         x="84"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3402"
+         height="42"
+         width="42"
+         y="252"
+         x="84"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3404"
+         height="42"
+         width="42"
+         y="294"
+         x="42"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3406"
+         height="42"
+         width="42"
+         y="84"
+         x="126"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3408"
+         height="42"
+         width="42"
+         y="84"
+         x="168"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3410"
+         height="42"
+         width="42"
+         y="84"
+         x="210"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3412"
+         height="42"
+         width="42"
+         y="84"
+         x="252"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3414"
+         height="42"
+         width="42"
+         y="42"
+         x="294"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3416"
+         height="42"
+         width="42"
+         x="336"
+         y="0"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3418"
+         height="42"
+         width="42"
+         y="84"
+         x="294"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3420"
+         height="42"
+         width="42"
+         y="84"
+         x="336"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3422"
+         height="42"
+         width="42"
+         y="84"
+         x="420"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3424"
+         height="42"
+         width="42"
+         y="42"
+         x="420"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3426"
+         height="42"
+         width="42"
+         y="126"
+         x="420"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3428"
+         height="42"
+         width="42"
+         y="168"
+         x="420"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3430"
+         height="42"
+         width="42"
+         y="126"
+         x="336"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3432"
+         height="42"
+         width="42"
+         y="168"
+         x="336"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3434"
+         height="42"
+         width="42"
+         y="210"
+         x="336"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3436"
+         height="42"
+         width="42"
+         y="126"
+         x="378"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3438"
+         height="42"
+         width="42"
+         y="168"
+         x="378"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3440"
+         height="42"
+         width="42"
+         y="210"
+         x="378"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3442"
+         height="42"
+         width="42"
+         y="252"
+         x="336"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3444"
+         height="42"
+         width="42"
+         y="294"
+         x="378"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3446"
+         height="42"
+         width="42"
+         y="210"
+         x="126"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3448"
+         height="42"
+         width="42"
+         y="210"
+         x="168"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3450"
+         height="42"
+         width="42"
+         y="210"
+         x="210"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3452"
+         height="42"
+         width="42"
+         y="210"
+         x="252"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3454"
+         height="42"
+         width="42"
+         y="210"
+         x="294"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3456"
+         height="42"
+         width="42"
+         y="168"
+         x="126"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3458"
+         height="42"
+         width="42"
+         y="168"
+         x="168"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3460"
+         height="42"
+         width="42"
+         y="168"
+         x="210"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3462"
+         height="42"
+         width="42"
+         y="168"
+         x="252"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3464"
+         height="42"
+         width="42"
+         y="168"
+         x="294"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3466"
+         height="42"
+         width="42"
+         y="126"
+         x="168"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3468"
+         height="42"
+         width="42"
+         y="126"
+         x="210"
+         style="fill:#5fd35f" />
+      <rect
+         id="rect3470"
+         height="42"
+         width="42"
+         y="126"
+         x="252"
+         style="fill:#5fd35f" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended';letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.75;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       transform="matrix(20.479984,0,0,35.895055,-2114.4516,-5907.4855)"><flowRegion
+         id="flowRegion3413"><rect
+           id="rect3415"
+           width="103.1915"
+           height="56.38298"
+           x="128.7234"
+           y="126.83029"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended';fill:#ff6600" /></flowRegion><flowPara
+         id="flowPara3417"
+         style="font-size:45px;line-height:1.25">atari</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3409"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fd35f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3918)"
+       transform="matrix(6.1559576,0,0,10.985383,-593.6297,-7621.8809)"><flowRegion
+         id="flowRegion3411"><rect
+           id="rect3413"
+           width="398.93616"
+           height="103.19149"
+           x="171.2766"
+           y="684.2771"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5fd35f" /></flowRegion><flowPara
+         id="flowPara3415"
+         style="font-size:90px;line-height:1.25">invasion</flowPara></flowRoot>  </g>
+</svg>
