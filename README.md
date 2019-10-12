@@ -10,6 +10,7 @@ LOGO - Green:
   - RGBa: 95,211,95,255
   - CMYKa: 55,0,55,17,100
   - HTML: 5FD35F
+
 LOGO - Orange:
   - RGBa: 225,102,0,255
   - CMYKa: 0,60,100,0,100
@@ -20,7 +21,7 @@ LOGO - Orange:
 ### LOGO
 
 Text:
-  - [SF Atarian System Extended](http://www.onlinewebfonts.com/download/a575960e7b96141e7ec34bc95aa772e2)
+  - SF Atarian System Extended([Download]](http://www.onlinewebfonts.com/download/a575960e7b96141e7ec34bc95aa772e2))
 
 ### Headline
 
