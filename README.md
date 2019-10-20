@@ -21,7 +21,7 @@ LOGO - Orange:
 ### LOGO
 
 Text:
-  - SF Atarian System Extended([Download]](http://www.onlinewebfonts.com/download/a575960e7b96141e7ec34bc95aa772e2))
+  - SF Atarian System Extended([Download](http://www.onlinewebfonts.com/download/a575960e7b96141e7ec34bc95aa772e2))
 
 ### Text
 
